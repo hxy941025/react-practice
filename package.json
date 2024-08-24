@@ -1,5 +1,6 @@
 {
   "private": true,
+  "author": "huxinyuan",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
